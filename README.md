@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00A4EF&height=180&section=header&text=Hi,%20I'm%20Fasi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-### Systems Security Engineer | Endpoint Security & Threat Mgmt | Learning Python for LLM Security | Aspiring OWASP Contributor
+### Systems Security Engineer | Endpoint Security & Threat Mgmt | LLM Security | OWASP Contributor
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Microsoft Defender](https://img.shields.io/badge/Defender%20XDR-00A4EF?style=flat&logo=microsoftdefender&logoColor=white)
