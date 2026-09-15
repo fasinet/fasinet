@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00A4EF&height=180&section=header&text=Hi,%20Im%20Fasi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00A4EF&height=180&section=header&text=Hi,%20I'm%20Fasi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 ### Systems Security Engineer | Endpoint Security & Threat Mgmt | Learning Python for LLM Security | Aspiring OWASP Contributor
 
